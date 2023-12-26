@@ -1,3 +1,3 @@
 # remote_keylogger
 
-This is not even close to completion yet. Kindly do not judge if you are watching :)
+An ongoing python keylogger project which, at its final stage should be able to run remotely on a machine as a background process and log the keys to attacker's server in real time
